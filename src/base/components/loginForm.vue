@@ -49,8 +49,8 @@ export default {
       activeName: 'login',
       editLoading: false,
       loginForm: {
-        username:'',
-        password: ''
+        username:'itcast',
+        password: '111111'
       },
       loginRules: {
         username: [
