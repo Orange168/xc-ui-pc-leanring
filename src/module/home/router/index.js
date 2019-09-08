@@ -27,7 +27,9 @@ export default [{
     component: Denied,
     name: Denied,
     hidden: true
-  }/*,
+  }
+
+/*,
   {
     path: '/loginmini',
     component: LoginMini,
